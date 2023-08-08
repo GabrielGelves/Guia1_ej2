@@ -16,6 +16,7 @@ public class Guia1_eje2 {
      */
     public static void main(String[] args) {
         System.out.println("hola Mundo");
+        int a =0;
     }
     
 }
